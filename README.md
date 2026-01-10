@@ -16,7 +16,7 @@ Some advice that my table and I had came up with would be :
 - Map out concepts in order to condense anything confusing. 
 - Create metaphors. 
 
-	### Activity 2
+### Activity 2
 	
 	1. 1. 10 ( x is being multiplied by 5 )
 	2. 2 
@@ -27,5 +27,5 @@ Some advice that my table and I had came up with would be :
 	7. The _playerTransform variable is instantiated but never used.
 	8. Transform.Translate should be replaced with _playerTransform.Translate.
 
-	### Activity 3
+### Activity 3
 	[Here is the Link to our Google Doc observations](https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/edit?usp=sharing)
