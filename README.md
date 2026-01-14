@@ -33,6 +33,8 @@ Some advice that my table and I had came up with would be :
 ## Week 2
 ### Activity 1
 
+![M2 BREAKDOWN ](https://github.com/user-attachments/assets/5eeefc24-666b-42ac-8200-3e7efcf74706)
+
 ### Activity 2
 [Here is the link to the progress I made in MG2](https://github.com/UCI-GDIM32-W25/mg2-kxcastilliano/commit/ef0f744b5eea515811ec948e213fb6c4d6505cd2)
 
