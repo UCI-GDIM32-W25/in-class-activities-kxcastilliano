@@ -32,4 +32,5 @@ Some advice that my table and I had came up with would be :
 
 ## Week 2
 ### Activity 1
+![M2 BREAKDOWN ](https://github.com/user-attachments/assets/b50eed9b-5d0b-42b4-9f8d-d09ba53b97fa)
 
