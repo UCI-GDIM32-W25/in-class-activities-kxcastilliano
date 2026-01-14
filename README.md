@@ -29,3 +29,7 @@ Some advice that my table and I had came up with would be :
 
 ### Activity 3
 	[Here is the Link to our Google Doc observations](https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/edit?usp=sharing)
+
+## Week 2
+### Activity 1
+
