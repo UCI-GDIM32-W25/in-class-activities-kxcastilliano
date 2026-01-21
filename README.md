@@ -41,3 +41,9 @@ Some advice that my table and I had came up with would be :
 In this commit I had created the scene for my game and establihed the hiearchy by makign gameobjects such as the player, the canvas, the ground etc. I had then proceeded to make the two classes for the minigame (player and Gamecontroller) and
 once that was completed I had spent my time breaking down the player script and working on the player's jump function (also added all colliders to objects).
 
+## Week 3
+### Activity 0-2
+
+Partner Name: Gianine Umali
+
+### Activity 3
