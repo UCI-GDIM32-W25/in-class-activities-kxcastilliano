@@ -33,12 +33,11 @@ Some advice that my table and I had came up with would be :
 ## Week 2
 ### Activity 1
 
+![M2 BREAKDOWN ](https://github.com/user-attachments/assets/5eeefc24-666b-42ac-8200-3e7efcf74706)
+
 ### Activity 2
 [Here is the link to the progress I made in MG2](https://github.com/UCI-GDIM32-W25/mg2-kxcastilliano/commit/ef0f744b5eea515811ec948e213fb6c4d6505cd2)
 
 In this commit I had created the scene for my game and establihed the hiearchy by makign gameobjects such as the player, the canvas, the ground etc. I had then proceeded to make the two classes for the minigame (player and Gamecontroller) and
 once that was completed I had spent my time breaking down the player script and working on the player's jump function (also added all colliders to objects).
 
-## Week 3
-### Activity 0-2
-Partner name: Gianine Umali
