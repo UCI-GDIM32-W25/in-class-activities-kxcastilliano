@@ -60,6 +60,7 @@ Worked with table members (Bella, Alejandra, Laura, Bilal)
 If you add multiple locators into the gameobject, all locators will delete until their is only one locator left in the scene.
 
 ### Activity 2
+![MG4 BREAKDOWN](https://github.com/user-attachments/assets/7f59b9f4-d191-446c-8240-0e602bee4ab3)
 
 
 ### Activity 3
