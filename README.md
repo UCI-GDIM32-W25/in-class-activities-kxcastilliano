@@ -49,3 +49,19 @@ Partner Name: Gianine Umali
 ### Activity 3
 
 ![W3 BREAKDOWN](https://github.com/user-attachments/assets/1503d119-ce46-43c5-b51e-b3720134e7b9)
+
+## Week 4
+### Activity 0 
+
+Worked with table members (Bella, Alejandra, Laura, Bilal)
+
+### Activity 1
+
+If you add multiple locators into the gameobject, all locators will delete until their is only one locator left in the scene.
+
+### Activity 2
+
+
+### Activity 3
+
+In my committ for MG4, I couldn't get anything code wise but I did get all my sprites and scripts situated. Other than that I made a player Ganmeobject that can be used for reference when I do get to coding. 
