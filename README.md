@@ -64,5 +64,5 @@ If you add multiple locators into the gameobject, all locators will delete until
 
 
 ### Activity 3
-[Here is the progress I made for MG4] (https://github.com/UCI-GDIM32-W25/HW4/commit/d1c244212df4e002b2bd378ff4b05404b2a7f6fb)
+[Here is the progress I made for MG4](https://github.com/UCI-GDIM32-W25/HW4/commit/d1c244212df4e002b2bd378ff4b05404b2a7f6fb)
 In my committ for MG4, I couldn't get anything code wise but I did get all my sprites and scripts situated. Other than that I made a player Ganmeobject that can be used for reference when I do get to coding. 
