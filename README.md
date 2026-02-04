@@ -65,3 +65,20 @@ If you add multiple locators into the gameobject, all locators will delete until
 ### Activity 3
 
 In my committ for MG4, I couldn't get anything code wise but I did get all my sprites and scripts situated. Other than that I made a player Ganmeobject that can be used for reference when I do get to coding. 
+
+## Week 5
+
+### Activity 1
+
+### Activity 2
+
+### Activity 3
+
+#### Scenario 1
+
+#### Scenario 2
+
+#### Scenario 3
+
+
+### Acvivity 4
