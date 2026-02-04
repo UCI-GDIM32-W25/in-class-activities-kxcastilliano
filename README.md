@@ -103,4 +103,4 @@ Ideas:
 ### Acvivity 4
 
 Team Members: Alejandra, Gianine
-[Here is the link to our project proposal](https://docs.google.com/document/d/1HA7VdliiVBVkcWm7gz2JQ5_28I3mm52N00WkWX0INI8/edit?usp=sharing)
+[Here is the link to our project proposal](https://docs.google.com/document/d/1zNEI6Q6prvof6MZBIPg397B4LSM3YyidLB--5WPzAQw/edit?usp=sharing)
