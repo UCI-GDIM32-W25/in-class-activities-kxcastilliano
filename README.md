@@ -60,11 +60,15 @@ Worked with table members (Bella, Alejandra, Laura, Bilal)
 If you add multiple locators into the gameobject, all locators will delete until their is only one locator left in the scene.
 
 ### Activity 2
+![MG4 BREAKDOWN](https://github.com/user-attachments/assets/7f59b9f4-d191-446c-8240-0e602bee4ab3)
 
 
 ### Activity 3
 
+[Here is the progress I made for MG4](https://github.com/UCI-GDIM32-W25/HW4/commit/d1c244212df4e002b2bd378ff4b05404b2a7f6fb)
 In my committ for MG4, I couldn't get anything code wise but I did get all my sprites and scripts situated. Other than that I made a player Ganmeobject that can be used for reference when I do get to coding. 
+>>>>>>> 0747efce619acccdaa6413a2ed37b54eebe4f4d2
+
 
 ## Week 5
 
