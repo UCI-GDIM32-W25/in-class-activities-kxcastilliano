@@ -73,16 +73,34 @@ In my committ for MG4, I couldn't get anything code wise but I did get all my sp
 ## Week 5
 
 ### Activity 1
+I believe that the structure of these classes does get the job done however it feels very overly complicated and the scripts look very jam packed with code- I wonder if we 
+could implmenet scriptable objects or if we just made two seperate scripts for the parent class- just so that visually the code looks more organized and understandable from a programmers perspective.
 
 ### Activity 2
+
+In the Demo 2, the classes that represent the model of the game would be the scriptable objects (item, Enemeny) as well as the Enemy classes- these classes cary data that happen within the game even when they aren't present to the player. The view classes in this system
+would be the dialogue bubbles, the sprites and the inventory UI- these classes ae shown visibly to the players when they interact with the game; The players are able to see the enemy's sprites on their screen, their dialogue when the player gets close
+and the inventory when space is pressed. The control class of this system is the player considering that the player's actions determine the outcome of how the game behaves (for example: Player must be in a certain range in order to activate the enemy dialogue).
 
 ### Activity 3
 
 #### Scenario 1
+- Prefab for click or to show players a beat needs to be hit 
+- Scriptable object for data of where the beat needs to be in the song, for each particulaur beat
+
 
 #### Scenario 2
-
+Ideas:
+- Possible scriptable objects for each character in order to easily assign unique behavior 
+- Events that trigger certain eleements Ex: When the player is shooting it deals damage to opposing player , when the player dies it shows the UI to the other players that the player hd been killed and sends the dead player to respawn or a seperate spectating area
+- Singleton use for the UI as a locator that way the game is able to store all their ui events and such in one place
+- parent class that can inherit behaviors from all players with their shared mesh, health, movement,  and attack. 
+- Enum: Need certain states such as Dead, Alive, Respawn, Shooting, etc...
 #### Scenario 3
 
+- State machine- the state of the plant's growth or the player's current action within the game 
 
 ### Acvivity 4
+
+Team Members: Alejandra, Gianine
+[Here is the link to our project proposal](https://docs.google.com/document/d/1HA7VdliiVBVkcWm7gz2JQ5_28I3mm52N00WkWX0INI8/edit?usp=sharing)
