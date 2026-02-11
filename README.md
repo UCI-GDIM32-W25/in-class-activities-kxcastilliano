@@ -110,7 +110,9 @@ Team Members: Alejandra, Gianine
 ### Activity 1
 Profiler: Demonstrates the stats of fps in your game and calls out what certian functions are taking longer to execute and run- this would be useful to figure out why the game might be glitching upon running it. 
 
+Gizmos: To detect collisions and interactions within the game and being able to see that visually.
 
+Breakpoints: A deeper way to look into debugging and managing errors.
 
 ### Activity 2 
 Team members present : Alejandra, Gianine
