@@ -104,3 +104,14 @@ Ideas:
 
 Team Members: Alejandra, Gianine
 [Here is the link to our project proposal](https://docs.google.com/document/d/1zNEI6Q6prvof6MZBIPg397B4LSM3YyidLB--5WPzAQw/edit?usp=sharing)
+
+## Week 6
+
+### Activity 1
+Profiler: Demonstrates the stats of fps in your game and calls out what certian functions are taking longer to execute and run- this would be useful to figure out why the game might be glitching upon running it. 
+
+
+
+### Activity 2 
+Team members present : Alejandra, Gianine
+[Here is the link to our project proposal's final draft](https://docs.google.com/document/d/1zNEI6Q6prvof6MZBIPg397B4LSM3YyidLB--5WPzAQw/edit?usp=sharing)
