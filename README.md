@@ -135,6 +135,7 @@ Team members present : Alejandra, Gianine
 Team members present : Alejandra, Gianine
 
 ### Activity 3
+![Breakdown Final](https://github.com/user-attachments/assets/114765d7-02d8-46d4-a575-d34c37f803e8)
 
 
 
@@ -143,3 +144,7 @@ Team members present : Alejandra, Gianine
 [Here is the link to our trello board](https://trello.com/b/Xaon9XV2/gdim-32-group-board)
 
 ### Activity 5
+
+[Link To Commit](https://github.com/Winterfall4/GDIM32-Final/commit/13e6168e44bb52679e080d272ef520419e6bd966)
+
+During the class period the commit I contributed to our final project is some code to make the player move from a third person perspective and have added background music into the scene. 
