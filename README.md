@@ -117,3 +117,29 @@ Breakpoints: A deeper way to look into debugging and managing errors.
 ### Activity 2 
 Team members present : Alejandra, Gianine
 [Here is the link to our project proposal's final draft](https://docs.google.com/document/d/1zNEI6Q6prvof6MZBIPg397B4LSM3YyidLB--5WPzAQw/edit?usp=sharing)
+
+## Week 7
+
+### Activity 1
+
+- The Red Raycast shows interaction and how the duck percieves/sees depending on if the player is in the line of sight or not.
+- Use of state machine to dictate how the duck moves if it moves around or pursuses the player
+- Raycast throws an arrow into the scene to visualize if it hit something. Red ray cast specifically in that method draws the length to which the duck is able to see/interact with. 
+- out hitinfo (raycast is filling in with that info) hitinfo.point - tells where in the world the raycast hit if anywehre. 
+- yellow dot, shows an indication where the duck collides with which then triggwers it to move elsewhere. 
+- sphere cast- area contained within a sphere - checking for obstacles. 
+
+
+### Activity 2
+
+Team members present : Alejandra, Gianine
+
+### Activity 3
+
+
+
+### Acvtivity 4
+
+[Here is the link to our trello board](https://trello.com/b/Xaon9XV2/gdim-32-group-board)
+
+### Activity 5
