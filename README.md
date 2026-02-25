@@ -148,3 +148,37 @@ Team members present : Alejandra, Gianine
 [Link To Commit](https://github.com/Winterfall4/GDIM32-Final/commit/13e6168e44bb52679e080d272ef520419e6bd966)
 
 During the class period the commit I contributed to our final project is some code to make the player move from a third person perspective and have added background music into the scene. 
+
+## Week 8 
+
+### Activity 1
+- rendering pipeline- sequence of instructions of how things will be drawn on the screen
+- check what pipeline you are using and make sure your assests fit into that pipeline. 
+- built in a different unity vers. can still work
+- post processing: affects the look of your game through shaders.
+- color settings: changing visual tone of your game
+- run the itch game after putting a post processing to see if it runs okay. 
+
+
+### Activty 2
+
+Team members present : Alejandra, Gianine 
+
+### Activity 3
+- lagging 
+- hard time with camera
+- sensitivity issue 
+- Make setting where players could change sensitivity 
+- Rocks are launching people
+- people like the enviornment and UI.
+
+### Actvity 4
+
+Im going to make the inventory UI 
+
+### Activty 5 
+
+[Link to Commit](https://github.com/Winterfall4/GDIM32-Final/commit/c053160f0a77bb12b8b11b9ac6019ff874e067a6)
+
+
+During class I imported the inventory UI and imported it within the scene.
