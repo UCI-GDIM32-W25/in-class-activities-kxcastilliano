@@ -180,5 +180,34 @@ Im going to make the inventory UI
 
 [Link to Commit](https://github.com/Winterfall4/GDIM32-Final/commit/c053160f0a77bb12b8b11b9ac6019ff874e067a6)
 
-
 During class I imported the inventory UI and imported it within the scene.
+
+## Week 9
+
+### Activity 1
+
+- scaling: good scaling handles a LOT of data!
+- dialogue nodes being used for each possible interactions 
+- Dialogue Controller cs if using multiple npcs with unique dialogue. > SetActive npc variable that tracks when the player interacts with an npc and checking WHICH npc it is talking to before sending the game to that npcs dialogue logic. 
+-  public void SetActiveNpc (NPC npc) " _activeDialogue = npc._dialogueStartNode" when the player begins interaction with npc sets the node to that particulaur node. 
+	- 
+### Activity 2
+Team members present : Alejandra.
+
+### Activity 3 
+Playtesting Notes:
+Goal: Is pressing Q a good way to drop the flowers? is the inventory system understandable and practical?
+
+- inventory system works well
+- issues still with canmera on player- move to left or right.
+-  click e to interact with flowers instead of mouse click?
+
+### Activity 4
+
+In terms of our project's scope I think we are doing really good with our progress, we are pratically half way through our game's project and with a new understanding towards the dialogue system, since 
+dialogue is the main mechanic of our game we are postive that we can get through and complete the game on time.
+
+### Activity 5
+
+[Link to Commit](https://github.com/lindenreid/GDIM32-Final/commit/10cb0a102403c9f46d63cfbebcdea5b016e28287)
+In this Commit I started on creating the ScriptableObjects for one of the NPCs as well as setting up the required scripts for the dialogue. 
