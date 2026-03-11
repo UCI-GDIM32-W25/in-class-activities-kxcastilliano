@@ -211,3 +211,29 @@ dialogue is the main mechanic of our game we are postive that we can get through
 
 [Link to Commit](https://github.com/lindenreid/GDIM32-Final/commit/10cb0a102403c9f46d63cfbebcdea5b016e28287)
 In this Commit I started on creating the ScriptableObjects for one of the NPCs as well as setting up the required scripts for the dialogue. 
+
+
+## Week 10
+
+### Activity 1
+
+Team members present : Alejandra, Gianine 
+
+### Activity 2
+
+Playtesting Notes:
+- Camera is still wonky
+- Npc feature is cool
+- Alt = mouse leaves, weird. 
+- Nice UI.
+- inventory is 50/50 when picking stuff up.
+
+### Activity 3
+
+I believe that our final project is around 70 percent complete. I will say that the final things that need to be done are very time consuming to figure out which is the dialogue and figuring out how to mix different methods together but 
+I am positive that we are able to make it by the deadline.
+
+### Activity 4
+
+[Link to Commit](https://github.com/Winterfall4/GDIM32-Final/commit/6963ab87a483bc181a26acca7f82363629889891) 
+In this commit I had done some tweaking with the Dog's dialogue to try to get it to activate within the game and hve tried to assign it's properties though it needs to still be reworked. 
